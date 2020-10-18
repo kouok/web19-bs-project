@@ -1,0 +1,95 @@
+/* 头部的背景 */
+
+.bg-lan {
+    background-color: #F1F7FD;
+}
+
+
+/* 按钮的边框 */
+
+.bord {
+    border-radius: 20px;
+}
+
+.img {
+    height: 500px;
+}
+
+.overflow-hidden {
+    overflow: hidden;
+}
+
+
+/* 主体内容的闪电 */
+
+.span {
+    margin-right: -10px;
+}
+
+
+/* key的样式 */
+
+.tub {
+    display: inline-block;
+    width: 30px;
+    border-radius: 5px;
+    height: 30px;
+}
+
+.jian {
+    background: url(../images/ia_100000009.svg) no-repeat;
+    background-size: 100%;
+    background-origin: content-box;
+}
+
+.zheng {
+    background: url(../images/ia_100000010.svg) no-repeat;
+    background-size: 100%;
+    background-origin: content-box;
+}
+
+.er {
+    background: url(../images/ia_100000011.svg) no-repeat;
+    background-size: 100%;
+    background-origin: content-box;
+}
+
+.yan {
+    background: url(../images/ia_100000012.svg) no-repeat;
+    background-size: 100%;
+    background-origin: content-box;
+}
+
+.bi {
+    background: url(../images/ia_100000013.svg) no-repeat;
+    background-size: 100%;
+    background-origin: content-box;
+}
+
+.wang {
+    background: url(../images/ia_100000014.svg) no-repeat;
+    background-size: 100%;
+    background-origin: content-box;
+}
+
+.zhi {
+    background: url(../images/ia_100000015.svg) no-repeat;
+    background-size: 100%;
+    background-origin: content-box;
+}
+
+.gong {
+    background: url(../images/ia_100000016.svg) no-repeat;
+    background-size: 100%;
+    background-origin: content-box;
+}
+
+
+/* 尾部的样式 */
+
+.emil {
+    line-height: 50px;
+    padding: 0 10px;
+    height: 50px;
+    background-color: #E5ECF5;
+}
