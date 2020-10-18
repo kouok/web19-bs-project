@@ -1,0 +1,89 @@
+文字素材：
+
+第一层楼（banner图）
+
+    Do it modern| with Replacer
+
+    Replacer is a perfect tool to start making landing pages with Bootstrap 4, it provides content-oriented, clean, modular and mobile-first design, which you can easily customize
+
+第二层楼：无
+
+第三层楼：
+
+    左：
+    RON
+    Needed to put up a site pretty quickly and was able to hit the ground running with Replacer. We had a couple of bone-headed questions as we were customizing and these were answered quickly and professionally. Well worth the money. No doubt!
+
+    中：
+    LUIS
+    Actually the simplicity of this theme makes it almost some sort of meta-theme, (a theme for other themes) since basically the theme does not have any added js or SCSS, (just plain bootstrap 4) that makes it perfect for integrating its beautiful components to other bootstrap 4 themes...
+
+    右：
+
+    KARTHIK
+    I was looking for a simple, but professional landing page theme for my restaurant food ordering service. It perfectly met my needs. Looks like it was built with bootstrap 4.0 beta. Hope, they will soon update it with the latest 4.x version.
+
+第四层楼：
+    
+    1\
+    Content-oriented design
+    Replacer has an extremely solid and clean design to focus your visitors on what you want to tell them, and this lightweight design will never go out of trends
+
+    2\
+    Built on near-vanilla Bootstrap
+    Replacer uses Bootstrap to the fullest. We didn't code new CSS styles if Bootstrap already had the solution, so the theme loads quickly and easy to customize
+
+    3\
+    Trustworthy and quick support
+    We value our work and happy to provide our customers with first-class and fast support, which has already proven itself
+
+    4\
+    Consistency and harmony
+    Each of 40+ sections (like features, testimonials and etc.), provided by Replacer, fits perfectly with each other, because of minimalistic and solid design
+
+    5\
+    Exclusive illustrations and icons
+    We made illustrations and line icons, especially for Replacer. Feel free to customize them in Figma file, which is also included
+
+    6\
+    Background system
+    If you want to add a bit of noise in your design, so it did not look too boring, you can use ready-made dot background system or make your own background with Figma file, which is also included
+
+    7\
+    Long-term upgrade plans
+    Replacer is constantly growing and updatable theme, and we have long-term plans to making it better according to your feedback
+
+    8\
+    PUG support
+    PUG is a high-performance template engine, which provides a comfortable environment for developers, working with HTML
+
+
+第五层楼：
+    
+    Get Replacer theme
+    Replacer is a perfect tool to start making landing pages with Bootstrap 4, it provides content-oriented, clean, modular and mobile-first design, which you can easily customize
+
+底部：
+    CONTACT US
+    778 Folsom Avenue, Suite A-200, San Francisco, CA 54107
+
+    +23 894 239 00 11
+    +23 852 444 22 56
+    hello@getreplacer.com
+
+    COMPANY
+    About us
+    Pricing
+    Careers
+    Privacy policy
+    FAQ
+
+    DOCUMENTATION
+    Getting started
+    Changelog
+    Support
+    Icons
+    
+    DAILY OFFERS
+    Join over 10000 others to get access to exclusive content
+
