@@ -1,0 +1,110 @@
+/*通用*/
+body{
+	background-color: #eff6fd;
+}
+.text-gray{
+	color: #8599b7;
+}
+.bg-gray{
+	background-color: #8599b7;
+}
+.bg-lightgray{
+	background-color: #eff6fd;
+}
+.bg-pink{
+	background-color: #e83e8c;
+}
+.bg-lightpink{
+	background-color: #fbddeb;
+
+}
+.text-pink{
+	color: #e83e8c;
+}
+.text-lightblue{
+	color: #24a7bc;
+}
+.h7{
+	font-size: 0.8rem;
+}
+
+/*顶部*/
+header{
+	height: 4rem;
+}
+header .position-fixed{
+
+	z-index:99;
+	background-color: #fff;
+	left:0;
+	right: 0;
+}
+header nav img{
+	vertical-align: top;
+}
+
+/*手机端时导航条背景色*/
+@media screen and (max-width:768px){
+	#header>section{
+		background-color: #fff;
+		position: relative;
+		z-index:99;
+	}
+}
+
+
+/*第二层DEMO*/
+.demoLink a:hover{
+	transition: 1s;
+	transform:scale(1.2);
+	background-color: #eff6fd;
+	border-radius: 2rem;
+	box-shadow: 0 0 0.5rem 0.5rem #c8d7f7;
+	position: relative;
+	z-index: 10;
+}
+/*第三层*/
+
+.floor3 section .icon{
+	width: 3rem;
+	border-radius: 1rem;
+	padding:0.5rem;
+}
+.floor3 section .icon img{
+	width: 100%;
+}
+.floor3 section a{
+	display: inline-block;
+}
+.floor3 section:hover .icon{
+	transition: 0.5s;
+	transform: rotate(360deg);
+}
+.floor3 section:hover{
+	transition: 1s;
+	transform:scale(1.2);
+	background-color: #fff;
+	border-radius: 2rem;
+	box-shadow: 0 0 0.5rem 0.5rem #c8d7f7;
+	position: relative;
+	z-index: 10;
+}
+
+
+/*底部*/
+footer li p{
+	margin:0.6rem 0;
+}
+footer article>section:first-child li p .iconfont{
+	font-size: 0.5rem;
+	padding:0.1rem;
+}
+footer li input{
+	background-color: #e5ecf5!important;
+	outline: none;
+}
+footer li label{
+	position: absolute;
+	right: 0.7rem;
+	top: 0.7rem;
+}
