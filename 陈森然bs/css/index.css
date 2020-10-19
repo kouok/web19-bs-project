@@ -1,0 +1,134 @@
+*{padding: 0;
+margin: 0;}.header{
+    background-color: #eff6fd;
+}
+.header .navbar-nav li a{
+    color:#878e95
+}
+.header .navbar-nav li{
+    margin-left: 25px;
+}
+.header .navbar-nav .actives a{
+    color:#fff!important;
+    border-radius:12px;
+    background-color: #1f252e;
+}
+.icon-ren{
+    margin-right: 3px;
+}
+.cor8fa{
+    color:#8fa2be
+}
+.ban_left{
+    padding-top:70px
+}
+.font48{
+    color:#1f252e
+}
+.btn_bg{
+    background-color: #e83e8c;
+    color:#fff
+}
+.btn{
+   border-radius:20px!important
+}
+.icon-xingxing{
+    color:#ffd043!important
+}
+.abs{
+    position: absolute;
+}
+.pink{
+    display: inline-block;
+    width:24px;
+    height:24px;
+    margin-right:5px;
+    border-radius: 2px;
+    background-color: #fbddeb;
+}
+.pink .icon-shandian{
+    color:#e83e8c
+}
+.banner-bg{
+    height:576px
+}
+@media screen and (max-width: 768px) {
+    .banner-bg{
+        height:200px;
+        width:100%
+    };
+}
+.cor2ca{
+    color:#2caabe
+}
+.here{
+    padding:20px 0;
+    border-bottom: 1px solid #eff6fd;
+}
+.cor859{
+    color:#8599b7
+}
+.cor1f2{
+    color:#1f252e
+}
+.bg-e83e8c{
+    background: #e83e8c;
+    color: #fff;
+    border-radius: 20px !important;
+}
+.bg-fff{
+    background: #fff;
+    color: black;
+    border-radius: 20px !important;
+}
+.jiacu{
+    font-weight: 600;
+}
+.jm{
+    background-color:#F8FAFE;
+}
+.img-pic{
+    width:50px;
+    height:50px;
+    background-color: #fff;
+    border: 1px solid #e5ecf5;
+    margin-left: 20px;
+}
+.card{
+    border: none;
+    background-color:#F8FAFE;
+}
+.jumbotron{
+    background-color: #fff;
+}
+.btn{
+ border-radius:5rem ;
+}
+.list-group-item{
+    border: none;
+    padding: 0;
+    background-color:#F8FAFE ;
+}
+.btn-gray{
+    margin-left: 5px;
+    background-color: #e5ecf5;
+}
+.col-12 .list-group{
+    color:#8599b7
+}
+.cor000{
+    color:#000!important
+}
+.cor17a{
+    color:#17a2b8
+}
+.email{
+    width:250px;
+    height:50px;
+    padding:15px;
+    margin-bottom:10px;
+    background-color: #e5ecf5;
+}
+.mywow{
+    visibility: hidden;
+}
