@@ -1,0 +1,60 @@
+.box,
+.navbar,
+.big,
+.foot {
+    background-color: #EFF6FD;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: black;
+    border-radius: 33px;
+    max-width: 100px;
+    text-align: center;
+}
+
+.navbar-light .navbar-nav .show>.nav-link,
+.navbar-light .navbar-nav .active>.nav-link,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .nav-link.active {
+    color: #fff
+}
+
+.btn1 {
+    background-color: #E83E8C;
+    color: #fff;
+    border-radius: 33px;
+}
+
+.btn2 {
+    background-color: #fff;
+    color: #000;
+    border-radius: 33px;
+}
+
+.title {
+    font-size: 40px;
+}
+
+.icon-xingxing {
+    color: #FFD043;
+}
+
+.tip {
+    height: 80px;
+    line-height: 80px;
+    font-size: 14px;
+}
+
+.foot p {
+    margin: 0;
+}
+
+.form-control {
+    background-color: #E5ECF5;
+}
+
+.mywow {
+    visibility: hidden;
+}
