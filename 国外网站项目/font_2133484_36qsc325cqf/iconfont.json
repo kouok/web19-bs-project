@@ -1,0 +1,86 @@
+{
+  "id": "2133484",
+  "name": "boots项目",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "10929",
+      "name": "篮球",
+      "font_class": "lanqiu",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "2772357",
+      "name": "邮件",
+      "font_class": "youjian",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "3979455",
+      "name": "f",
+      "font_class": "f",
+      "unicode": "e6e5",
+      "unicode_decimal": 59109
+    },
+    {
+      "icon_id": "4590762",
+      "name": "时间",
+      "font_class": "shijian",
+      "unicode": "e710",
+      "unicode_decimal": 59152
+    },
+    {
+      "icon_id": "6901453",
+      "name": "飞机 (1)",
+      "font_class": "feiji",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "6988646",
+      "name": "实心星星",
+      "font_class": "start",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "7100745",
+      "name": "人",
+      "font_class": "ren",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "7334992",
+      "name": "github",
+      "font_class": "git",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "10981505",
+      "name": "闪电",
+      "font_class": "shandian",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "11564854",
+      "name": "鸟",
+      "font_class": "niaosvg",
+      "unicode": "e74d",
+      "unicode_decimal": 59213
+    },
+    {
+      "icon_id": "12851119",
+      "name": "电  话",
+      "font_class": "dianhua",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}
