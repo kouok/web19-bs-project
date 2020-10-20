@@ -1,0 +1,47 @@
+.bg-sy{
+	background-color: #EFF6FD !important;
+}
+
+.nav-link{
+	padding: 0.435rem 0.75rem!important;
+}
+
+p{
+	color: #ABBAD0 !important;
+}
+
+.br{
+	border-radius: 40px;
+}
+
+.btn-white{
+	background-color: #fff;
+	color: #000000;
+	border-color: #fff;
+}
+
+.btn-pink{
+	background-color: #E83E8C;
+	border-color: #E83E8C;
+	color: #fff;
+}
+
+.yellow{
+	color: #FFD043!important;
+}
+
+.endp{
+	font-size: 12px;
+}
+
+.endp>a{
+	color: #ABBAD0 !important;
+}
+
+.end-bg{
+	background-color: #E5ECF5!important;
+}
+
+.sy{
+	color: #ABBAD0;
+}
