@@ -1,0 +1,104 @@
+#navbarTogglerDemo03 a{
+    color: #878e95
+  }
+  #navbarTogglerDemo03 .bi {
+    vertical-align: baseline;
+    width: 0.8rem;
+    height: 0.8rem;
+  }
+  #navbarTogglerDemo03 .dropdown-menu{
+    background: hsla(0, 0%, 100%, .75);
+    -webkit-backdrop-filter: blur(5px);    
+    backdrop-filter: blur(5px);    
+    border: 0;
+    box-shadow: 0px 0px 3px #666;
+    top: 2.78rem;
+  }
+  #navbarTogglerDemo03 .badge{
+    color: #fff;
+    min-width:3.58rem;
+    min-height: 2rem;
+    padding: 0;
+    line-height: 2rem;
+    margin: 0 1rem;
+  }
+  #navbarTogglerDemo03 .login .bi{
+    vertical-align: text-bottom;
+    width: 1.5rem;
+    height: 1.2rem;
+  }
+  #replacer{
+    background: #eff6fd;
+  }
+  #replacer .bi{
+    vertical-align: text-top;
+    color: #8599b7;
+    margin-right: 0.5rem;
+  }
+  #replacer .jumbotron{
+    background: #eff6fd;
+    padding: 0;
+  }
+  #replacer .jumbotron .lead{
+    color: #8599b7;
+  }
+  #replacer .display-4{
+    margin: 1rem 0;
+  }
+  #replacerre .jumbotron .documention{
+    margin: 3rem 0;
+  }
+    .documention a:first-of-type{
+    background: #e83e8c;
+  }
+  #replacer .col-lg-6:first-of-type{
+    padding: 10rem 0;
+  }
+  .drag{
+    width: 100%;
+    overflow: hidden;
+  }
+  .drag img{
+   height: 40rem;
+  } 
+  .high img{
+      vertical-align: baseline;
+  }
+  #wrap .title{
+      min-height: 4rem;
+      border-bottom: 1px solid #eff6fd;
+      line-height: 4rem;
+  }
+  #wrap .title img{
+      margin-top: -3px;
+  }
+  #wrap .tit{
+      line-height: 8rem;
+  }
+  #wrap img{
+    border-radius: 5px;
+  }
+  .light-d{
+      color: #94a5c0;
+  }
+  #keys .card{
+      background: transparent;
+  }
+  #keys h5{
+      display: inline-block;
+      border-radius: 1rem;
+      border: 1px solid #e5ecf5;
+      padding: 0.4rem;
+      background-color: #fff;
+  }
+  #get .container{
+      width: 40rem;
+      margin: 0 auto;
+  }
+  .list dd{
+      color: #94a5c0;
+      margin-bottom: 0.5rem;
+  }
+  #footer >p{
+      line-height: 5rem;
+  }
